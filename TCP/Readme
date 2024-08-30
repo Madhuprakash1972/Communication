@@ -1,0 +1,5 @@
+cc TCP_Client.c -o TCP_Client
+cc TCP_Server.c -o TCP_Server
+
+./TCP_Server
+./TCP_Client

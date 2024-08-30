@@ -1,0 +1,5 @@
+cc UDP_Client.c -o UDP_Client
+cc UDP_Server.c -o UDP_Server
+
+./UDP_Server
+./UDP_Client
